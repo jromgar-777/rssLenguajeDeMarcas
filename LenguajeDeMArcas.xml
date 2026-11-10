@@ -13,7 +13,7 @@
             <link>https://lenguajesdemarcas.example.com/noticias1</link>
             <description>Origen y evolución de los primeros lenguajes de marcas.</description>
             <guid isPermaLink="true">https://lenguajesdemarcas.example.com/noticias1</guid>
-            <pubDate>Wed, 18 Jan 2025 12:00:00 GMT</pubDate>
+            <pubDate>Sat, 18 Jan 2025 12:00:00 GMT</pubDate>
             <author>ana.lopez@example.com (Ana López)</author>
         </item>
 
@@ -22,7 +22,7 @@
             <link>https://lenguajesdemarcas.example.com/noticias2</link>
             <description>Evolución de HTML y su importancia en el desarrollo de la Web.</description>
             <guid isPermaLink="true">https://lenguajesdemarcas.example.com/noticias2</guid>
-            <pubDate>Mon, 23 Jan 2025 12:00:00 GMT</pubDate>
+            <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
             <author>carlos.garcia@example.com (Carlos García)</author>
         </item>
     </channel>
