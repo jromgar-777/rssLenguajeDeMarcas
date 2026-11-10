@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://w3.org">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <!-- Información General del Canal -->
   <title>Lenguajes de Marcas</title>
-  <link href="https://lenguajesdemarcas.example.com" rel="alternate"/>
-  <id>https://lenguajesdemarcas.example.com</id>
+  <link href="https://lenguajesdemarcas.example.com/" rel="alternate"/>
+  <id>https://lenguajesdemarcas.example.com/</id>
   <subtitle>Noticias sobre la evolución de los lenguajes de marcas.</subtitle>
   <updated>2026-11-10T08:24:00Z</updated>
   <rights>Copyright@2026.</rights>
